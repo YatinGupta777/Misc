@@ -25,4 +25,5 @@ output : starting followed by finished.
 
 ### References :
 
-1.
+1. https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
+2. https://stackoverflow.com/questions/38425751/returning-chrome-storage-api-value-without-function
