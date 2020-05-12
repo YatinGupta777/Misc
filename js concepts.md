@@ -22,9 +22,11 @@ We’ve passed the alertFinished function definition as an argument during our d
 
 output : starting followed by finished. 
 
+The main difference between callbacks and promises is that with callbacks you tell the executing function what to do when the asynchronous task completes, whereas with promises the executing function returns a special object to you (the promise) and then you tell the promise what to do when the asynchronous task completes.
 
 ### References :
 
 1. https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced
 2. https://stackoverflow.com/questions/38425751/returning-chrome-storage-api-value-without-function
+3. https://itnext.io/javascript-promises-vs-rxjs-observables-de5309583ca2
 
